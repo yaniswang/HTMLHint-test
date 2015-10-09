@@ -1,0 +1,11 @@
+{
+    "tag-pair": true,
+    "tag-self-close": true,
+    "attr-no-duplication": true,
+    "spec-char-escape": true,
+    "id-unique": true,
+    "title-require": true,
+    "alt-require": true,
+    "doctype-html5": true,
+    "id-class-value": true
+}
