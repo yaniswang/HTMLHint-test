@@ -9,6 +9,7 @@ node_js:
 
 before_script:
   - npm install -g htmlhint
+  - htmlhint -V
 
 script:
   - htmlhint
